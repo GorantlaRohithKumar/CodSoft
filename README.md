@@ -1,2 +1,2 @@
 # CodSoft
-CodSoft Data science interm
+CodSoft Python Programming Intern
