@@ -1,2 +1,2 @@
 # CodSoft
-CodSoft Python Programming Intern
+CodSoft Python_Programming Intern
